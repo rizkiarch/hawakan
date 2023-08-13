@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="{{ asset('assets/bootstrap/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
     <title>Document</title>
 </head>
 
@@ -293,7 +294,6 @@
                         </div>
                         <div class="carousel-item">
                             <div class="row">
-
                                 <div class="col-md-4 mb-3">
                                     <div class="card">
                                         <img class="img-fluid" alt="100%x280"
